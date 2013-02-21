@@ -1,7 +1,3 @@
-/**
- * git success
- */
-
 /*
     无论是当做方法使用还是new对象，均返回redisPool自定义对象
 */
